@@ -28,13 +28,6 @@ The design follows a standard ASIC flow:
 .
 ├── README.md
 │
-├── docs/
-│   ├── block_diagram.png          # System-level block diagram of the neural network
-│   ├── neuron_diagram.png         # Implementation diagram of a single neuron
-│   ├── Project2Goals.png          # Project milestone 2 goals
-│   ├── Project3Goals.png          # Project milestone 3 goals
-│   ├── Project4Goals.png          # Project milestone 4 goals
-│   └── xceliumSCUG.pdf            # Cadence Xcelium Simulator User Guide (reference)
 │
 ├── verilog/
 │   ├── neuron.v                   # Top-level neuron module (pipelined, 7-cycle latency)
