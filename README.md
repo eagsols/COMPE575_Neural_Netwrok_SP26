@@ -169,8 +169,8 @@ See `sim/hdl.var` for library and view configuration details. Refer to `docs/xce
 ---
 
 ## Authors
-Erik Gamez - @eagsols
-Diego Chavez - @chavez-diego
-Daniel Rico - 
-Hector Ramirez -
+- Erik Gamez - @eagsols
+- Diego Chavez - @chavez-diego
+= Daniel Rico - 
+- Hector Ramirez -
 COMPE 572 — San Diego State University
